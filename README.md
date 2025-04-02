@@ -1,7 +1,7 @@
 # Learning Next.js
 This is the repository for the LinkedIn Learning course Learning Next.js. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![lil-thumbnail-url]
+![lil-thumbnail-url] 
 
 Next.js is a React framework developed by developers for developers, to create high-quality, responsive web applications. With built-in tools and ready-to-use features, Next.js makes the development process painless and a breeze. In this course, web developer and trainer Sandy Ludosky teaches you how to leverage the Next.js framework to speed up and improve your workflow, whether you are a front- or back-end developer. Find out how to build and deploy a fully functional web application. Explore ways to leverage and improve the developer experience. Plus, go over practical examples and complete a course project to help you practice what you’ve learned. This course can help you get to the next level with Next.js.
 
